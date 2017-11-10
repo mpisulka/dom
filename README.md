@@ -1,1 +1,2 @@
 # dom
+tutaj wpisuje zmiany
